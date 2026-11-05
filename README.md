@@ -1,0 +1,2 @@
+# maximumos
+Linux distribution project
