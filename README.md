@@ -1,5 +1,5 @@
 # maximumos
-Linux distribution project
+Linux distribution 
 
 **Take Control.**
 
